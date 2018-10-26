@@ -1,0 +1,15 @@
+name: mat281_modulo3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - pip
+  - python=3.6.6
+  - vega
+  - vega_datasets
+prefix: /home/alonsolml/miniconda3/envs/mat281_modulo3
+
